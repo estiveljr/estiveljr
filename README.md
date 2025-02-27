@@ -1,11 +1,11 @@
 # Hi, I'm Estivel 👋
+## Data Scientist & Developer
 
-📍 **Montreal**, Canada \
+📍 **Montreal**, CA \
 📧 **Email**: [estiveljr@gmail.com](estiveljr@gmail.com) \
 🔗 **LinkedIn**: [/in/estiveljr](www.linkedin.com/in/estiveljr) \
 👨‍💻 **GitHub**: [/estiveljr](www.github.com/estiveljr)
 
-## Data Scientist & Developer with a string Supply Chain Background
 
 ### About me 📖
 I build data-driven solutions that solve real business problems. 5 years of experience bridging the gap between business needs and technology, I specialize in optimization, forecasting, and backend development.
@@ -14,19 +14,21 @@ I build data-driven solutions that solve real business problems. 5 years of expe
 
 - **Data Science**: Optimization algorithms, forecasting, and ML models.
 - **Development**: Backend systems, APIs, and data pipelines
-- **Problem Solving**: Turning complex business challenges into elegant technical solutions
+- **Supply Chain**: Network design, inventory optimization, and logistics efficiency analysis
 
-### 🛠️ Tech Stack
+### 🌟 Professional Highlights 
 
-```JSON
-skills = {
-"languages": ["Python", "SQL", "JavaScript", "C++", "Java"],
-"data_science": ["Pandas", "NumPy", "Scikit-learn", "XGBoost"],
-"optimization": ["Cplex", "Gurobi", "OR-tools"],
-"web_dev": ["Flask", "FastAPI", "React"],
-"cloud": ["GCP", "AWS", "Docker", "Git"]
-}
-```
+- **Data Science Specialist & Coordinator** (Xcelis Consulting, 2021-2023)
+
+- **Supply Chain Consultant & Analyst** (Xcelis Consulting, 2019-2021)
+
+### 🛠️ Tech Toolbox
+
+- **Languages**: Python, SQL, JavaScript, C++, Java
+- **Data Science**: Pandas, NumPy, Scikit-learn, XGBoost
+- **Optimization**: Cplex, Gurobi, OR-tools
+- **Web Development**: Flask, FastAPI, React
+- **Cloud & DevOps**: GCP, AWS, Docker, Git
 
 ### ✨ Data Science Projects
 
