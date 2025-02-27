@@ -2,7 +2,7 @@
 ## Data Scientist & Developer
 
 📍 **Montreal**, CA \
-📧 **Email**: [estiveljr@gmail.com](estiveljr@gmail.com) \
+📧 **Email**: [estiveljr@gmail.com](mailto:estiveljr@gmail.com) \
 🔗 **LinkedIn**: [/in/estiveljr](http://www.linkedin.com/in/estiveljr) \
 👨‍💻 **GitHub**: [/estiveljr](http://www.github.com/estiveljr)
 
@@ -40,6 +40,6 @@ I build data-driven solutions that solve real business problems. 5 years of expe
 
 I'm always interested in challenging problems and collaborative opportunities. Currently based in 📍**Montreal** and fluent in English, French, and Portuguese.
 
-📧 [**Email**](estiveljr@gmail.com) |
+📧 [**Email**](mailto:estiveljr@gmail.com) |
 🔗 [**LinkedIn**](http://www.linkedin.com/in/estiveljr) |
 👨‍💻 [**GitHub**](http://www.github.com/estiveljr)
