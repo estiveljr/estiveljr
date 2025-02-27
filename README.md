@@ -19,7 +19,6 @@ I build data-driven solutions that solve real business problems. 5 years of expe
 ### 🌟 Professional Highlights 
 
 - **Data Science Specialist & Coordinator** (Xcelis Consulting, 2021-2023)
-
 - **Supply Chain Consultant & Analyst** (Xcelis Consulting, 2019-2021)
 
 ### 🛠️ Tech Toolbox
@@ -30,21 +29,12 @@ I build data-driven solutions that solve real business problems. 5 years of expe
 - **Web Development**: Flask, FastAPI, React
 - **Cloud & DevOps**: GCP, AWS, Docker, Git
 
-### ✨ Data Science Projects
-
-- **Inventory Forecasting System**: Reduced stockouts by 35% across 3000 SKUs
-- **Network Design Optimizer**: My master's project, is an integer programming solution for optimal distribution center placement. 
-
-### ✨ Development Projects
-
-- **Java library manager**: A CRUD tool for library management made with java swing and mysql.
-
 ### 🎓 Education
 
 - MSc in Information Systems (University of São Paulo)
 - BS in Industrial Engineering (FEI University Centre - São Bernardo)
-- Web & Mobile Development (Institut Grasset - Montreal)
-- Marketing and Advertising (Mackenzie University - São Paulo)
+- BS in Marketing and Advertising (Mackenzie University - São Paulo)
+- DCS in Web & Mobile Development (Institut Grasset - Montreal)
 
 ## 🌐 Let's Connect
 
