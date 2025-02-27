@@ -40,6 +40,6 @@ I build data-driven solutions that solve real business problems. 5 years of expe
 
 I'm always interested in challenging problems and collaborative opportunities. Currently based in 📍**Montreal** and fluent in English, French, and Portuguese.
 
-📧 [**Email**](mailto:estiveljr@gmail.com) |
+📧 [**estiveljr@gmail.com**](mailto:estiveljr@gmail.com) |
 🔗 [**LinkedIn**](http://www.linkedin.com/in/estiveljr) |
 👨‍💻 [**GitHub**](http://www.github.com/estiveljr)
