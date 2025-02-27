@@ -3,7 +3,7 @@
 
 📍 **Montreal**, CA \
 📧 **Email**: [estiveljr@gmail.com](estiveljr@gmail.com) \
-🔗 **LinkedIn**: [/in/estiveljr](www.linkedin.com/in/estiveljr) \
+🔗 **LinkedIn**: [/in/estiveljr](http://www.linkedin.com/in/estiveljr) \
 👨‍💻 **GitHub**: [/estiveljr](www.github.com/estiveljr)
 
 
